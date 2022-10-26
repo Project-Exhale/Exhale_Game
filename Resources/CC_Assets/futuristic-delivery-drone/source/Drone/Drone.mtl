@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.206520482)
+
+newmtl Flaps
+kd 1 0.3 0
+illum 1
+
+newmtl Drone
+kd 0 0.716667 1
+illum 1
+
+newmtl Cargo
+kd 0.359615 0.71 0.2627
+illum 1
+
